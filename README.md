@@ -37,7 +37,7 @@
 
 
 
-##   技能清单1
+##   技能清单
 
 - 熟练的使用HTML5、CSS3、JavaScript，ES6语法且能编写符合W3C标准的PC页面。
 - 熟练使用jQuery和Bootstrap能够实现网页的架构搭建与页面交互。
