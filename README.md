@@ -2,29 +2,25 @@
      <h1>王杰</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
              13237119871
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
              micasnaker@gmail.com
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
              <a href="https://gitee.com/micasnaker">micasnaker</a>
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
              <a href="https://www.cnblogs.com/mica/">My Blog</a>
          </span>
      </div>
  </center>
 
 
- ## ## 个人信息 
+ ##  个人信息 
 
  - 男，1998 年出生
 
@@ -35,13 +31,13 @@
  - 期望薪资：5k
 
 
-## ## 教育经历
+##  教育经历
 
 - 武汉软件工程职业学院     软件技术专业   （2016.09~2019.07）
 
 
 
-##  ## 技能清单
+##   技能清单
 
 - 熟练的使用HTML5、CSS3、JavaScript，ES6语法且能编写符合W3C标准的PC页面。
 - 熟练使用jQuery和Bootstrap能够实现网页的架构搭建与页面交互。
@@ -55,7 +51,7 @@
 
 
 
-## ## 工作经历
+##  工作经历
 
 - **武汉杰海科技有限公司，研发部门，Web前端工程师，2018.10~2019.02**
 
@@ -75,7 +71,7 @@
 
 
 
-## ## 项目经历
+##  项目经历
 
 - **米乐新闻移动端 项目 (2019.01-2019.02)**
 
@@ -149,6 +145,6 @@
 
 
 
-####  ##致谢
+####  致谢
 
 ​	感谢您花时间阅读我的简历，期待能有机会和您共事
